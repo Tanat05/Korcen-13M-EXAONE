@@ -71,7 +71,7 @@ def predict_abusive(text, model, tokenizer, max_len, threshold=0.5):
     prediction = (probability >= threshold).astype(int)
     return probability.flatten()[0], prediction.flatten()[0]
 
-input_text = input("문장을 입력하세요: ")
+input_text = input("Please enter a sentence: ")
 probability, label = predict_abusive(input_text, model, tokenizer, MAX_LENGTH)
 
 label_text = "욕설 (Abusive)" if label == 1 else "정상 (Normal)"
