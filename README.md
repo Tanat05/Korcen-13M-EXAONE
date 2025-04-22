@@ -1,21 +1,23 @@
 # Korcen-13M-EXAONE
-Korcen-13M-EXAONE is an AI model developed for the purpose of identifying the presence of profanity within Korean text. While the model currently faces performance limitations due to data quality issues in its training set, future efforts will focus on acquiring and utilizing high-quality data to significantly improve its accuracy.
+Korcen-13M-EXAONE is an AI model developed with the primary purpose of filtering inappropriate language in social media (SNS) chats. Currently, the model's performance is affected by limitations in the quality of its training data. However, future efforts will concentrate on acquiring and refining high-quality data to significantly enhance its accuracy in detecting Korean profanity.
 
 Key Features:
-- Korean Language Specific: Designed with an understanding of diverse Korean profanity expressions to achieve accurate detection.
-- Continuous Improvement Focus: Prioritizing the enhancement of data quality as the primary strategy for ongoing model performance improvement.
+- **Designed for SNS Chat Filtering**: Specifically built to identify and filter out offensive language within the context of social media conversations.
+- **Korean Language Specific**: Engineered with an understanding of various Korean profanity expressions to achieve precise detection.
+  
+Future Development:
+- **Continuous Improvement via Data Quality**: The immediate focus is on improving the model's performance by enhancing the quality of its training data.
+- **Enhanced Filtering Based on Conversation Flow**: Once Korcen-13M-EXAONE achieves a high level of accuracy, the development of a more advanced model capable of understanding the flow of conversations to filter inappropriate content within context is planned.
+  
+Korcen-13M-EXAONE represents an initial step towards creating a safer and more positive online communication environment. The ongoing commitment to data quality improvement will pave the way for more sophisticated content filtering solutions in the future.
 
-Future Plans:
-- Data Quality Enhancement: A dedicated focus will be placed on acquiring and refining high-quality Korean profanity data.
-- Model Retraining: The model will undergo retraining using the improved data to maximize its profanity detection capabilities.
-
-Korcen-13M-EXAONE aims to evolve into a more robust and reliable Korean profanity detection model through continuous data quality improvements. Your interest and support are appreciated.
+# Model Overview
 ```
 total samples: 14,879,960
 Training samples: 11,903,968
 Validation samples: 2,975,992
 ```
-# Model Overview
+
 Parameters: 13,197,569
 
 Training time: 5h
