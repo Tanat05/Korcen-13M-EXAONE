@@ -20,7 +20,7 @@ Validation samples: 2,975,992
 
 Parameters: 13,197,569
 
-Training time: 5h
+Training time: 4h
 
 Tokenizer: EXAONE 3.5 Tokenizer (vocab size: 102,400)
 
