@@ -13,7 +13,7 @@ Tokenizer: EXAONE 3.5 Tokenizer (vocab size: 102,400)
 ![Figure_1](https://github.com/user-attachments/assets/08abd495-f039-4f00-af54-d95001a1c05f)
 
 # Example PY: 3.10 TF: 2.10
-```
+```py
 import numpy as np
 import tensorflow as tf
 from transformers import AutoTokenizer
