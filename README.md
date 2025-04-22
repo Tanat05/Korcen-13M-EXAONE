@@ -1,4 +1,5 @@
 # Korcen-13M-EXAONE
+![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 Korcen-13M-EXAONE is an AI model developed with the primary purpose of filtering inappropriate language in social media (SNS) chats. Currently, the model's performance is affected by limitations in the quality of its training data. However, future efforts will concentrate on acquiring and refining high-quality data to significantly enhance its accuracy in detecting Korean profanity.
 
 Key Features:
