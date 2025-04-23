@@ -5,17 +5,15 @@
 
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 
-Korcen-13M-EXAONE is an AI model developed with the primary purpose of filtering inappropriate language in social media (SNS) chats. Currently, the model's performance is affected by limitations in the quality of its training data. However, future efforts will concentrate on acquiring and refining high-quality data to significantly enhance its accuracy in detecting Korean profanity.
+"Refined Intelligence: Enhanced Accuracy and Adaptability in ML Filtering (Lessons from a Setback)."
 
-Key Features:
-- **Designed for SNS Chat Filtering**: Specifically built to identify and filter out offensive language within the context of social media conversations.
-- **Korean Language Specific**: Engineered with an understanding of various Korean profanity expressions to achieve precise detection.
-  
-Future Development:
-- **Continuous Improvement via Data Quality**: The immediate focus is on improving the model's performance by enhancing the quality of its training data.
-- **Enhanced Filtering Based on Conversation Flow**: Once Korcen-13M-EXAONE achieves a high level of accuracy, the development of a more advanced model capable of understanding the flow of conversations to filter inappropriate content within context is planned.
-  
-Korcen-13M-EXAONE represents an initial step towards creating a safer and more positive online communication environment. The ongoing commitment to data quality improvement will pave the way for more sophisticated content filtering solutions in the future.
+This project initially aimed to be an advanced iteration of our machine learning-based filter, leveraging a significantly larger dataset. However, the project faced a setback due to the compromised quality of this expanded data, ultimately leading to unsatisfactory filtering performance.
+
+Undeterred by this challenge, we are committed to overcoming this data quality issue. We are actively focusing on refining our data acquisition and cleaning processes and will continue to develop and release upgraded models that progressively enhance accuracy, reduce false positives, and improve adaptability to evolving slang and offensive language. Our dedication to providing a robust and reliable filtering solution remains unwavering.
+
+[Korcen](https://github.com/KR-korcen/korcen): original before innovation.
+
+[Korcen-kogpt2](https://github.com/Tanat05/korcen-kogpt2): First innovation and first failure
 
 # Model Overview
 ```
