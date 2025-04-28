@@ -5,7 +5,7 @@
 
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 
-"Refined Intelligence: Enhanced Accuracy and Adaptability in ML Filtering (Lessons from a Setback)."
+"Refined Intelligence: Enhanced Accuracy and Adaptability in ML Filtering."
 
 This project initially aimed to be an advanced iteration of our machine learning-based filter, leveraging a significantly larger dataset. However, the project faced a setback due to the compromised quality of this expanded data, ultimately leading to unsatisfactory filtering performance.
 
